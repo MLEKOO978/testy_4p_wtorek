@@ -1,1 +1,104 @@
+1. Aplikacja mobilna napisana w języku Kotlin jest przeznaczona głównie dla systemu:
 
+A. iOS
+B. Windows
+C. Android
+D. Linux
+
+2. Plik AndroidManifest.xml zawiera informacje o:
+
+A. wyglądzie interfejsu użytkownika
+B. uprawnieniach i komponentach aplikacji
+C. kodzie źródłowym aplikacji
+D. bazie danych aplikacji
+
+3. Które środowisko programistyczne służy do tworzenia aplikacji na Androida?
+
+A. Xcode
+B. Android Studio
+C. NetBeans
+D. PyCharm
+
+4. Format pliku instalacyjnego aplikacji Android to:
+
+A. .exe
+B. .apk
+C. .msi
+D. .dmg
+
+5. Który element interfejsu użytkownika służy do wyświetlania tekstu?
+
+A. Button
+B. EditText
+C. TextView
+D. ImageView
+
+6. Emulator urządzenia mobilnego służy do:
+
+A. publikowania aplikacji w sklepie
+B. symulowania działania aplikacji
+C. tworzenia dokumentacji
+D. zarządzania bazą danych
+
+7. Które uprawnienie należy nadać aplikacji, aby mogła korzystać z GPS?
+
+A. CAMERA
+B. STORAGE
+C. INTERNET
+D. LOCATION
+
+8. Aplikacja, która działa na wielu systemach operacyjnych z jednego kodu źródłowego, to aplikacja:
+
+A. natywna
+B. systemowa
+C. wieloplatformowa
+D. serwerowa
+
+9. Do przechowywania danych aplikacji w pamięci urządzenia służy:
+
+A. procesor
+B. pamięć RAM
+C. lokalna baza danych
+D. karta graficzna
+
+10. Który sklep umożliwia publikację aplikacji na system Android?
+
+A. App Store
+B. Microsoft Store
+C. Google Play
+D. Galaxy Themes
+
+11. Skrót UI oznacza:
+
+A. Universal Internet
+B. User Interface
+C. User Information
+D. Utility Input
+
+12. Testowanie aplikacji mobilnej ma na celu:
+
+A. zmianę systemu operacyjnego
+B. wykrycie błędów działania
+C. instalację aplikacji
+D. aktualizację telefonu
+
+13. Który język jest używany do tworzenia aplikacji na iOS?
+
+A. Java
+B. Kotlin
+C. Swift
+D. PHP
+
+14. Aplikacja, która wymaga stałego połączenia z Internetem, to aplikacja:
+
+A. offline
+B. lokalna
+C. online
+D. systemowa
+
+15. Który element odpowiada za reakcję aplikacji na kliknięcie przycisku?
+
+A. layout
+B. zasób graficzny
+C. obsługa zdarzeń
+D. plik manifestu
